@@ -1,0 +1,21 @@
+15:55:25.732 [main] DEBUG org.solent.com504.oodd.bank.model.dto.test.JsonDtoTests - Json transactionRequest output:
+{
+  "fromCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "toCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "amount" : 100.01
+}
+15:55:26.229 [main] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password=1234567890 hashedpw=$2a$12$rQOlCb2W5Eb/fKVqRY7Txe9wecC412oYng2UvZ.RbwEBNImiG969u
+15:55:26.510 [main] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 matches
+15:55:27.075 [main] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 does not match
